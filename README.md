@@ -1,6 +1,6 @@
 The program of the game "Magic Ball" on Ruby.
 
-https://ru.wikipedia.org/wiki/Magic_8_ball
+Description [Wiki](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
 To start the game, run the following program file:
 ```
